@@ -2,3 +2,7 @@
 2025-05-08 13:35:06,525 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/akash4992/Datasets/refs/heads/main/spam.csv
 2025-05-08 13:35:06,527 - data_ingestion - DEBUG - Data preprocessing completed
 2025-05-08 13:35:06,555 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2025-05-08 17:35:45,325 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-05-08 17:35:45,924 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/akash4992/Datasets/refs/heads/main/spam.csv
+2025-05-08 17:35:45,929 - data_ingestion - DEBUG - Data preprocessing completed
+2025-05-08 17:35:46,023 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
